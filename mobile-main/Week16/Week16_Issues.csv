@@ -1,0 +1,20 @@
+Summary, Reporter, Issue Type, Priority, Description, Comment, Status, Attachment
+"Unrelated product present", andriidereviannyi@gmail.com, bug, 5, "In Storefront there are items unrelated to the Skybot brand", "", Open, "https://drive.google.com/file/d/17mGlNORyI1d7cPcxCdeXzXnnNfSNeeKf/view?usp=drive_link"
+"Typos in product tags", andriidereviannyi@gmail.com, bug, 5, "In Storefront there are typos in tags and product titles", "", Open, "https://drive.google.com/file/d/1MoSl2UszK4VqWvv9L4J8bXP1XrNmdaH4/view?usp=drive_link"
+"Ununified descriptions", andriidereviannyi@gmail.com, bug, 5, "Product descriptions styles are not unified", "", Open, "" 
+"No description", andriidereviannyi@gmail.com, bug, 5, "Some products lack descriptions", "", Open, "https://drive.google.com/file/d/1oE_CXUCdbY9Lq1mfZHc0clIJnZ1IpL5G/view?usp=drive_link"
+"Wrong descriptions", andriidereviannyi@gmail.com, bug, 5, "Some products have wrong descriptions", "", Open, "https://drive.google.com/file/d/1dWlpjn8-yrXrJPu2OAsb_KK3hUIR2IEI/view?usp=drive_link"
+"Price is static", andriidereviannyi@gmail.com, bug, 5, "Item price doesn't change with quantity", "", Open, "https://drive.google.com/file/d/1dWlpjn8-yrXrJPu2OAsb_KK3hUIR2IEI/view?usp=drive_link"
+"TC7 Callendar content fails to load", andriidereviannyi@gmail.com, bug, 5, "Callendar page contents fail to load", "", Open, 
+"TC8 Service content fails to load", andriidereviannyi@gmail.com, bug, 5, "Service page contents fail to load", "", Open, 
+"TC13 Impossible to sign up with email", andriidereviannyi@gmail.com, bug, 5, "Cannot proceed to sign up - option wasn't found", "Unreachable", Open, 
+"TC14 Impossible to sign up with Google Account", andriidereviannyi@gmail.com, bug, 5, "Cannot proceed to sign up - option wasn't found", "Unreachable", Open, 
+"TC15 Impossible to sign up with Facebook Account", andriidereviannyi@gmail.com, bug, 5, "Cannot proceed to sign up - option wasn't found", "Unreachable", Open, 
+"TC16 Impossible to log in with email", andriidereviannyi@gmail.com, bug, 5, "Cannot proceed to log in - option wasn't found", "Unreachable", Open, 
+"TC17 Impossible to log in with email", andriidereviannyi@gmail.com, bug, 5, "Cannot proceed to log in - option wasn't found", "Unreachable", Open, 
+"TC18 Impossible to log in with Google Account", andriidereviannyi@gmail.com, bug, 5, "Cannot proceed to log in - option wasn't found", "Unreachable", Open, 
+"TC19 Impossible to log in with Google Account", andriidereviannyi@gmail.com, bug, 5, "Cannot proceed to log in - option wasn't found", "Unreachable", Open, 
+"TC20 Impossible to log in with Facebook Account", andriidereviannyi@gmail.com, bug, 5, "Cannot proceed to log in - option wasn't found", "Unreachable", Open, 
+"TC21 Impossible to log in with Facebook Account", andriidereviannyi@gmail.com, bug, 5, "Cannot proceed to log in - option wasn't found", "Unreachable", Open, 
+"TC22 Impossible to log out", andriidereviannyi@gmail.com, bug, 5, "Cannot proceed to log in - option wasn't found", "Unreachable", Open, 
+"TC43 Impossible to pay", andriidereviannyi@gmail.com, bug, 5, "Page stuck on infinite load", "Unreachable", Open, 

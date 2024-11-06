@@ -1,0 +1,4 @@
+Summary, Reporter, Issue Type, Priority, Description, Comment, Status, Attachment
+"TC15 Wrong Products in Electric Scooters", andriidereviannyi@gmail.com, bug, 5, "Wrong products present, probably wrong label in db", "", Open, 
+"TC16 Wrong Products in Ride Safety", andriidereviannyi@gmail.com, bug, 5, "Wrong products present, probably wrong label in db", "Mostly spare parts displayed", Open, 
+"TC32 Impossible to proceed to payment", andriidereviannyi@gmail.com, bug, 5, "Page stuck on infinite load", "Unreachable", Open, 

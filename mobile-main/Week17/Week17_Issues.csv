@@ -1,0 +1,13 @@
+Summary, Reporter, Issue Type, Priority, Description, Comment, Status, Attachment
+"TC1 Header UI/UX issues", andriidereviannyi@gmail.com, bug, 3, "1.Notification button blends in with the banner 2.Shopping Cart blends in with the banner 3.Kebab button blends in with the banner 4.While it's good idea to start customer on storefront, I would change places of Storefront and Home pages in nav bar 5.Header jumps down when scrolling", "", Open, "https://drive.google.com/file/d/14u20eTulH4nQ4uqfgFS_CEd7zzm5g8k2/view?usp=drive_link" 
+"TC2 Notifications page UI/UX issues", andriidereviannyi@gmail.com, bug, 3, "No notifications can be recieved at this stage", "Blocked", Open, 
+"TC3 Shopping Cart page UI/UX issues", andriidereviannyi@gmail.com, bug, 3, ""1.Item price doesn't change with quantity 2.Change amount window lacks buttons to change amount gradually"", "", Open, "https://drive.google.com/file/d/1tvQ5FCrQ7vERo6XRpK-NbxuCYGJBSSwG/view?usp=drive_link"
+"TC4 Profile page UI/UX issues", andriidereviannyi@gmail.com, bug, 3, "Page lacks functionality", "Blocked", Open, 
+"TC5 Community page UI/UX issues", andriidereviannyi@gmail.com, bug, 3, "No chat can be accessed at this stage", "Blocked", Open, 
+"TC6 About Us page UI/UX issues", andriidereviannyi@gmail.com, bug, 3, "1.Banner missing", "", Open, "https://drive.google.com/file/d/1G-OW_FDKTTR-Z0nyGbdXLa_d2Ya1MEuP/view?usp=drive_link"
+"TC7 Footer page UI/UX issues", andriidereviannyi@gmail.com, bug, 3, "1.Banner opens Dial without any context for user", "", Open, "https://drive.google.com/file/d/1F8KVPmf3gplAjlGE_lHEO7PplIF7E7Gc/view?usp=drive_link"
+"TC8 Storefront page UI/UX issues", andriidereviannyi@gmail.com, bug, 3, ""1.Categories should have been dropdown menu, not separate 2.Items unrelated to the Skybot brand 3.Typos in tags and product titles"", "", Open, "https://drive.google.com/file/d/1g-piT_ogasSmLEYoRnLSBF3KgMOeL2dB/view?usp=drive_link"
+"TC9 Product page UI/UX issues", andriidereviannyi@gmail.com, bug, 3, "1.Descriptions' styles are not unified 2.Some products lack descriptions 3.Some products have wrong descriptions", "", Open, "https://drive.google.com/file/d/1MdqPyaBAwcr59mvEjNIBrs5m0s271dRB/view?usp=drive_link"
+"TC11 Schedule page UI/UX issues", andriidereviannyi@gmail.com, bug, 3, "No schedule can be set up at this stage", "Blocked", Open, 
+"TC12 Our Services page UI/UX issues", andriidereviannyi@gmail.com, bug, 3, "No services can be accessed at this stage", "Blocked", Open, 
+\

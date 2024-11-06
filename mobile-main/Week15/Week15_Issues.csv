@@ -1,0 +1,9 @@
+Summary, Reporter, Issue Type, Priority, Description, Comment, Status, Attachment
+"TC4 Our Services Page Doesn't Load", andriidereviannyi@gmail.com, bug, 5, "Service page contents fail to load", "", Open, 
+"TC6 Impossible to Sign Up with Email", andriidereviannyi@gmail.com, bug, 5, "Unreachable", "Cannot proceed to sign up - no Sign UP option", Open, 
+"TC7 Impossible to Sign Up with Google Account", andriidereviannyi@gmail.com, bug, 5, "Unreachable", "Cannot proceed to sign up - no Sign UP option", Open, 
+"TC8 Impossible to Sign Up with Facebook Account", andriidereviannyi@gmail.com, bug, 5, "Unreachable", "Cannot proceed to sign up - no Sign UP option", Open, 
+"TC10 Impossible to Log In with Email", andriidereviannyi@gmail.com, bug, 5, ""Unreachable", "Cannot proceed to log in - no Log In option", Open, 
+"TC12 Impossible to Log In with Google Account", andriidereviannyi@gmail.com, bug, 5, ""Unreachable", "Cannot proceed to log in - no Log In option", Open, 
+"TC14 Impossible to Log In with Facebook Account", andriidereviannyi@gmail.com, bug, 5, ""Unreachable", "Cannot proceed to log in - no Log In option", Open, 
+"TC34 Impossible to Proceed to Payment", andriidereviannyi@gmail.com, bug, 5, "Unreachable", "Page stuck on infinite load", Open, 

@@ -1,0 +1,6 @@
+Summary, Reporter, Issue Type, Priority, Description, Comment, Status, Attachment
+"TC6 Schedule page localization issues", andriidereviannyi@gmail.com, bug, 3, "Page contents fail to load", "Blocked", Open, 
+"TC7 Our Services page localization issues", andriidereviannyi@gmail.com, bug, 3, "Page contents fail to load", "Blocked", Open, 
+"TC8 Groups page localization issues", andriidereviannyi@gmail.com, bug, 3, "Group name and description is in Ukrainian", "", Open, 
+"TC9 Storefront page localization issues", andriidereviannyi@gmail.com, bug, 3, "1.Typo in item title 2.Poorly written item titles", "", Open, 
+"TC14 Schedule page date-time formatting issues", andriidereviannyi@gmail.com, bug, 3, "Week starts on Monday instead of Sunday", "", Open, 

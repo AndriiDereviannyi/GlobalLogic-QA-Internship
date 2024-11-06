@@ -1,0 +1,11 @@
+Summary, Reporter, Issue Type, Priority, Description, Comment, Status, Attachment
+"TC10 Members page long load", andriidereviannyi@gmail.com, bug, 5, "Load time over 3 seconds", "", Open, 
+"TC12 Video Reviews long load", andriidereviannyi@gmail.com, bug, 5, "Load time over 3 seconds", "", Open, 
+"TC44 Header UI/UX issues", andriidereviannyi@gmail.com, bug, 3, "1.Store icon doesn't have transparent background 2.Storefront button is too far in nav bar 3.Header jumps down when scrolling", "", Open, 
+"TC46 Shopping Cart UI/UX issues", andriidereviannyi@gmail.com, bug, 3, "1.Item price doesn't change with quantity 2.Change amount window lacks buttons to change amount gradually", "", Open, "https://drive.google.com/file/d/1H2RrtyAzZyVLkNO6KtWwTgfJ-k6dQcJO/view?usp=drive_link"
+"TC48 About Us page UI/UX issues", andriidereviannyi@gmail.com, bug, 3, "1.Banner missing 2.Location information in missing", "", Open, "https://drive.google.com/file/d/1qUVUMdcwl6s6cyqvb69B-luoy4kCCJ9B/view?usp=drive_link"
+"TC50 Schedule UI/UX issues", andriidereviannyi@gmail.com, bug, 3, "Schedule page contents fail to load", "", Open, 
+"TC51 Our Services UI/UX issues", andriidereviannyi@gmail.com, bug, 3, "Service page contents fail to load 2.Banner missing 3.Location information is missing", "", Open, 
+"TC53 Storefront UI/UX Issues", andriidereviannyi@gmail.com, bug, 3, "1.When scrolling down, page returns to the top after releasing a finger 2.Categories should have been dropdown menu, not separate 3.Typos in tags 4.Typos in product titles", "https://drive.google.com/file/d/1dbcBeNZyLEVUI5HcfqNmc6BMHo-x6OVk/view?usp=drive_link", Open, 
+"TC54 Product page UI/UX issues", andriidereviannyi@gmail.com, bug, 3, "1.Descriptions' styles are not unified 2.Some products lack descriptions 3.Some products have wrong descriptions", "", Open, "https://drive.google.com/file/d/11UfBKZISeSlMWoGgQ6acFa1G7timJGTH/view?usp=drive_link"
+"TC55 Members page UI/UX issues", andriidereviannyi@gmail.com, bug, 3, "Not all members are shown", "", Open, "https://drive.google.com/file/d/1rxDiid3TokXkdfbMxhRIdS6vGJCQ8GMq/view?usp=drive_link"
