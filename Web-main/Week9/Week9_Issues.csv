@@ -1,0 +1,53 @@
+Summary, Reporter, Issue Type, Priority, Description, Comment, Status, Attachment
+"TC1 Website Hosting Location is not Split", andriidereviannyi@gmail.com, bug, 5, "The website's hosting is located in USA only", "" Open, "https://check-host.net/ip-info?host=https%3A%2F%2Fprometheusqastage3.wixsite.com%2Fskybot&csrf_token=51e70204aee84b1b953c251bd31735670ca151d8" 
+"TC14 Website Cannot Handle 500 Concurrent Users", andriidereviannyi@gmail.com, bug, 5, "Error 429", "" Open, "https://drive.google.com/file/d/1F4w29YX_mr7TX7PfMJOZ0nCfSTga4JRY/view?usp=drive_link"
+"TC34 Impossibe to Access Profile Page via Account Nav Bar", andriidereviannyi@gmail.com, bug, 3, "Cannot click on Profile button in account's navigation bar", "Header obstructs account's navigation bar" Open, 
+"TC35 Impossibe to Access My Orders Page via Account Nav Bar", andriidereviannyi@gmail.com, bug, 5, "Cannot click on My Orders button in account's navigation bar", "Header obstructs account's navigation bar" Open, 
+"TC36 Impossibe to Access My Adress Page via Account Nav Bar", andriidereviannyi@gmail.com, bug, 5, "Cannot click on My Adress button in account's navigation bar", "Header obstructs account's navigation bar" Open, 
+"TC37 Impossibe to Access My Wallet Page via Account Nav Bar", andriidereviannyi@gmail.com, bug, 5, "Cannot click on My Wallet button in account's navigation bar", "Header obstructs account's navigation bar" Open, 
+"TC38 Impossibe to Access My Bookings Page via Account Nav Bar", andriidereviannyi@gmail.com, bug, 3, "Cannot click on My Bookings button in account's navigation bar", "Header obstructs account's navigation bar" Open, 
+"TC39 Impossibe to Access My Rewards Page via Account Nav Bar", andriidereviannyi@gmail.com, bug, 3, "Cannot click on My Rewards button in account's navigation bar", "Header obstructs account's navigation bar" Open, 
+"TC40 Impossibe to Access My Subscriptions Page via Account Nav Bar", andriidereviannyi@gmail.com, bug, 5, "Cannot click on My Subscriptions button in account's navigation bar", "Header obstructs account's navigation bar" Open, 
+"TC41 Impossibe to Access My Account Page via Account Nav Bar", andriidereviannyi@gmail.com, bug, 3, "Cannot click on My Account button in account's navigation bar", "Header obstructs account's navigation bar" Open, 
+"TC42 Impossibe to Access Notifications Page via Account Nav Bar", andriidereviannyi@gmail.com, bug, 2, "Cannot click on Notifications button in account's navigation bar", "Header obstructs account's navigation bar" Open, 
+"TC43 Impossibe to Access Settings Page via Account Nav Bar", andriidereviannyi@gmail.com, bug, 3, "Cannot click on Settings button in account's navigation bar", "Header obstructs account's navigation bar" Open, 
+"TC48 Possible to Log In via Google Account without Registration", andriidereviannyi@gmail.com, bug, 5, "Login via Google Account proceeds regardless of user being registered or not", "Account for unregistered user is created", Open, 
+"TC51 Possible to Log In via Facebook Account without Registration", andriidereviannyi@gmail.com, bug, 5, "Login via Facebook Account proceeds regardless of user being registered or not", "Account for unregistered user is created", Open, "", andriidereviannyi@gmail.com, bug, 5, "", "" Open, 
+"TC76 Impossible to Add File to a Review", andriidereviannyi@gmail.com, bug, 3, "File adds to the section but gets stuck at infinite load", "" Open, 
+"TC86 Impossible to Buy Product", andriidereviannyi@gmail.com, bug, 5, "Cannot Proceed to Payment", "" Open, 
+"TC92 Impossible to Checkout with PayPal", andriidereviannyi@gmail.com, bug, 5, "Action Blocked", "Cannot Proceed to Payment", Open, 
+"TC93 Impossible to Checkout with Google Pay", andriidereviannyi@gmail.com, bug, 5, "Action Blocked", "Cannot Proceed to Payment", Open, 
+"TC94 Impossible to Checkout with Apple Pay", andriidereviannyi@gmail.com, bug, 5, "Action Blocked", "Cannot Proceed to Payment", Open, 
+"TC107 Impossible to Sign Up for a Test Drive", andriidereviannyi@gmail.com, bug, 5, "Action Blocked", "Cannot proceed to sign up application", Open, 
+"TC108 Impossible to Sign Up for a Warranty Maintenance", andriidereviannyi@gmail.com, bug, 5, "Action Blocked", "Cannot Proceed to Sign Up Application", Open, 
+"TC109 Impossible to Sign Up for a Post-Warranty Maintenance", andriidereviannyi@gmail.com, bug, 5, "Action Blocked", "Cannot Proceed to Sign Up Application", Open, 
+"TC110 Impossible to Sign Up for a No Warranty Maintenance", andriidereviannyi@gmail.com, bug, 5, "Action Blocked", "Cannot Proceed to Sign Up Application", Open, "", 
+"TC111 Impossible to Rent a Scooter", andriidereviannyi@gmail.com, bug, 5, "Cannot Proceed to Rent Scooter page", "Service is unavailable", Open, 
+"TC124 Impossible to Learn Store Locations", andriidereviannyi@gmail.com, bug, 3, "Button doesn't do anything", "" Open, 
+"TC127 Impossible to Contact Store", andriidereviannyi@gmail.com, bug, 3, "Button doesn't do anything", "" Open, 
+"TC128 Impossible to Learn More about Product Information and Warranty", andriidereviannyi@gmail.com, bug, 3, "Button doesn't do anything", "", Open, 
+"TC129 Impossible to Learn More about Return and Exchange Policy", andriidereviannyi@gmail.com, bug, 3, "Button doesn't do anything", "", Open, 
+"TC130 Impossible to Learn More about Privacy and Security", andriidereviannyi@gmail.com, bug, 3, "Button doesn't do anything", "", Open, 
+"TC131 Cannot Change Profile Picture", andriidereviannyi@gmail.com, bug, 3, "Cannot click on profile picture", "Header obstructs profile picture" Open, 
+"TC132 Cannot Change Profile Banner", andriidereviannyi@gmail.com, bug, 3, "Cannot click on camera button", "Header obstructs camera button" Open, 
+"TC133 Cannot View Profile", andriidereviannyi@gmail.com, bug, 2, "Cannot click on View Public Profile button", "Header obstructs View Public Profile button" Open, 
+"TC134 Cannot Share Profile on Facebook", andriidereviannyi@gmail.com, bug, 2, "Cannot click on More Options kebab button", "Header obstructs More Options kebab button" Open, 
+"TC135 Cannot Share Profile on Twitter/X", andriidereviannyi@gmail.com, bug, 2, "Cannot click on More Options kebab button", "Header obstructs More Options kebab button" Open, 
+"TC136 Cannot Share Profile on LinkedIn", andriidereviannyi@gmail.com, bug, 2, "Cannot click on More Options kebab button", "Header obstructs More Options kebab button" Open, 
+"TC137 Canntot Share Profile via Link", andriidereviannyi@gmail.com, bug, 2, "Cannot click on More Options kebab button", "Header obstructs More Options kebab button" Open, 
+"TC138 Cannot Proceed to Edit Profile", andriidereviannyi@gmail.com, bug, 3, "Cannot click on More Options kebab button", "Header obstructs More Options kebab button" Open, 
+"TC145 Impossible to View Video in About Section", andriidereviannyi@gmail.com, bug, 2, "About window appears", "" Open, 
+"TC149 Cannot Proceed to Browse My Orders", andriidereviannyi@gmail.com, bug, 3, "My Orders page changes to Main page", "" Open, 
+"TC154 Cannot Add Card Information to Wallet", andriidereviannyi@gmail.com, bug, 5, "No way to add card", "" Open, 
+"TC155 Cannot Add New Card to Wallet", andriidereviannyi@gmail.com, bug, 5, "No way to add card", "" Open, 
+"TC170 Impossible to navigate to Account page after changing URL", andriidereviannyi@gmail.com, bug, 5, "Error 404", "Profile button loads Profile page with old URL adress that no longer exist, Profile page with new URL exists, but is not reachable" Open, 
+"TC177 Cannot Send File in Chat", andriidereviannyi@gmail.com, bug, 5, "Test file is not sent", "" Open, 
+"TC191 Header UI/UX Issues", andriidereviannyi@gmail.com, bug, 3, "1. Hearder takes too much space", "" Open, "https://drive.google.com/file/d/1LsgjVZGtIuoNydl7bGVGm3ANjdONjBqM/view?usp=drive_link"
+"TC193 Home Page UI/UX Issues", andriidereviannyi@gmail.com, bug, 3, "1.Banner too big 2.Item display images style is not unified 3.Out of Stock items displayed in showcase section 4.Low quality image 5.Poor text visibility in About Us section 6.About Us banner too big 7.Send button in Contact Us section is in Ukrainian", "" Open, "https://drive.google.com/file/d/1VcH__Tgac4-Gkzmq2YMjCCVWGBxQNW3P/view?usp=drive_link"
+"TC194 Shop Page UI/UX Issues", andriidereviannyi@gmail.com, bug, 3, "1.Placeholder text 2.Wrong label 3.Label typo 4.Load More button blends with background color 5.Out of stock items mixed with available items 6.Low quality image 7.Label cropped", "" Open, 
+"TC196 Our Services UI/UX Issues", andriidereviannyi@gmail.com, bug, 3, "1. Video section need margin and title, i.e. Tutorials", "" Open,  "https://drive.google.com/file/d/1PbbbtVveFRTC7NhqyFbQt8RZTauNVs_D/view?usp=drive_link"
+"TC197 About Us UI/UX Issues", andriidereviannyi@gmail.com, bug, 2, "1. Arrows for a carousel with one item", "" Open, "https://drive.google.com/file/d/16uaAUHY0SEW4xTs_nyTGlVtvDfcwgo2Z/view?usp=drive_link"
+"TC198 FAQ UI/UX Issues", andriidereviannyi@gmail.com, bug, 3, "1.Payment options placeholer text 2.Return policy placeholder text 3.Pre-order placeholder text", "" Open, "https://drive.google.com/file/d/1TiR1Jz9DIEXM0tQxaKFtENDUtW4y-KC-/view?usp=drive_link"
+"TC199 Support Page UI/UX Issues", andriidereviannyi@gmail.com, bug, 3, "Text in Contact form text fields in Ukrainian", "" Open, "https://drive.google.com/file/d/1xo8pdBm9lwD2HJb1_zdaUh47UlcVdtIs/view?usp=drive_link"
+"TC200 Store Policies Page UI/UX Issues", andriidereviannyi@gmail.com, bug, 3, "1.Title blends in with background 2.Text missing 3.Product Information placeholder text 4.Pricing and Payment policy text typo 5.Refund policy wrong text 6.Privacy placeholder text", "" Open, "https://drive.google.com/file/d/1o2xr5STRNS4lOhKvLEWYbFwC9XIpQF-6/view?usp=drive_link"
+"TC201 Careers Page UI/UX Issues", andriidereviannyi@gmail.com, bug, 2, "1.Placeholder image for business analyst 2.Placeholder text", "" Open, "https://drive.google.com/file/d/1242o-4ntqvSJQdF-Sds-ltpBbN9Svrln/view?usp=drive_link"

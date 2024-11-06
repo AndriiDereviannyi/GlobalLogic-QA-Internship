@@ -1,0 +1,9 @@
+Summary, Reporter, Issue Type, Priority, Description, Comment, Status, Attachment
+"TC17 Cannot Proceed to Checkout", andriidereviannyi@gmail.com, bug, 5, "Action Blocked", "", Open, 
+"TC27 Cannot Proceed to Payment", andriidereviannyi@gmail.com, bug, 5, "Action Blocked", "", Open, 
+"TC28 Cannot Enter User Information", andriidereviannyi@gmail.com, bug, 5, "Unreachable", "Cannot proceed to Checkout", Open, 
+"TC29 Impossible to Checkout with PayPal", andriidereviannyi@gmail.com, bug, 5, "Unreachable", "Cannot proceed to Payment", Open, 
+"TC30 Impossible to Checkout with Google Pay", andriidereviannyi@gmail.com, bug, 5, "Unreachable", "Cannot proceed to Payment", Open, 
+"TC31 Impossible to Checkout with Apple Pay", andriidereviannyi@gmail.com, bug, 5, "Unreachable", "Cannot proceed to Payment", Open, 
+"TC38 Impossible to Sign Up for Test Drive", andriidereviannyi@gmail.com, bug, 5, "Action Blocked", "Cannot proceed to Sign-Up application", Open, 
+"TC39 Impossible to Sign Up for Service", andriidereviannyi@gmail.com, bug, 5, "Action Blocked", "Cannot proceed to Sign-Up application", Open, 
